@@ -1,1 +1,24 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Unofficial>
+	 <sagit>
+            <Filename>RR-N-v6.0.1-20181013-sagit-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest version">https://sourceforge.net/projects/resurrectionremix/files/Z00L/</RomUrl>
+            <GappsUrl
+                id="gapps"
+                title="Google Apps"
+                description="Download Google Apps">http://bit.ly/2gY1FHw</GappsUrl>
+            <xdaUrl
+                id="xda"
+                title="XDA"
+                description="XDA Thread">https://forum.xda-developers.com/zenfone-2-laser/development/rom-resurrection-remix-n-t3509698</xdaUrl>
+            <donationUrl
+                id="donation"
+                title="Donations"
+                description="">https://goo.gl/DS0iqC</donationUrl>
+	</sagit>
+    </Unofficial>
+</SlimOTA>
